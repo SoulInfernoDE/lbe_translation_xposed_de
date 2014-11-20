@@ -2616,7 +2616,7 @@
     <string name="Battery_Condition_TickerChargeFull">Ticker Charge Full</string>
     <string name="Battery_Condition_TickerCharge_Over">Trickle charging is completed</string>
     <string name="Home_Open_Source">Open source licenses</string>
-    <string name="Patch_Check_Immune_Desc">您的手机系统暂时不支持用免Root方式开启主动防御，请尝试用Root方式开启主动防御，并开启实时病毒扫描，以保护您的手机安全</string>
+    <string name="Patch_Check_Immune_Desc">Your mobile phone does not support free root method to open the active defense, please try to use the Root method to open the active defense, and open real-time virus scanning, to protect your mobile phone security</string>
     <string name="phone_number_already_exists">This number already exists in the blacklist or whitelist, please delete </string>
     <string name="SDClean_Clean_Garbage">Garbage removal </string>
     <string name="SDClean_Clean_Join_WhiteList">Whitelist</string>
