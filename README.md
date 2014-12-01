@@ -1,7 +1,7 @@
 lbe_translation_xposed_de
 =========================
 <<<<<<< HEAD
-Translates LBE Security Master 5.1.xxxx - 5.3.7506 into various languages (Privacy Space and Antitheft in English for now).
+Translates LBE Security Master 5.4.8088  into german.
 =======
 Translates LBE Security Master 5.4.8088  into german.
 >>>>>>> master
