@@ -12,7 +12,7 @@
         <item>Ajouter depuis Contacts</item>
         <item>Ajouter depuis les appels</item>
         <item>Ajouter depuis les SMS</item>
-        <item>Ajouter manuellement</item>
+        <item>Ajouter par régions</item>
         <item>Ajouter par balises</item>
     </string-array>
     <string-array name="addnouseiptype">
@@ -26,29 +26,6 @@
         <item>N\'existe pas</item>
         <item>Hors service</item>
         <item>Occupé</item>
-    </string-array>
-    <string-array name="endcalltype_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="msglog_operate">
-        <item>Supprimer</item>
-        <item>Répondre par SMS</item>
-        <item>Appeler ce numéro</item>
-        <item>Ajouter à la liste blanche</item>
-        <item>Ajouter à la liste noir</item>
-        <item>Signaler</item>
-    </string-array>
-    <string-array name="calllog_operate">
-        <item>Supprimer</item>
-        <item>Répondre par SMS</item>
-        <item>Appeler ce numéro</item>
-        <item>Ajouter à la liste blanche</item>
-        <item>Ajouter à la liste noir</item>
-        <item>Restaurer dans la liste des appels (système)</item>
     </string-array>
     <string-array name="trafficBillingDay">
         <item>1er de chaque mois</item>
@@ -99,7 +76,7 @@
         <item>Restaurer le journal des appels</item>
     </string-array>
     <string-array name="preference_stopcalltype_options">
-        <item>Mode Nuit-Ne Pas Déranger</item>
+        <item>Mode Nuit-Ne-Pas-Déranger éteint</item>
         <item>Bloquer la Liste Noire uniquement</item>
         <item>Recevoir de Liste Blanche uniquement</item>
         <item>Bloquer tout</item>
@@ -194,10 +171,10 @@ pub, pop-up, etc"</item>
         <item>default|Menace inconnue</item>
     </string-array>
     <string-array name="calibration_period">
-        <item>Correction manuelle</item>
         <item>Tous les 3 jours</item>
         <item>Chaque semaine</item>
         <item>Chaque jour</item>
+        <item>Correction manuelle</item>
     </string-array>
     <string-array name="auto_update_period">
         <item>Inactif</item>
@@ -281,14 +258,12 @@ pub, pop-up, etc"</item>
         <item>Paramètres système</item>
     </string-array>
     <string-array name="home_about_labels">
-        <item>Paramètres système</item>
-        <item>Centre de messages</item>
         <item>Mise à jour logiciel</item>
-        <item>Aide (en chinois)</item>
-        <item>Vos retours</item>
-        <item>Evaluation (sur le Playstore)</item>
+        <item>Commentaires</item>
+        <item>Noter LBE</item>
         <item>Partager avec vos amis</item>
-        <item>A propos de LBE security master</item>        
+        <item>Contacter LBE</item>
+        <item>Remerciements</item>
     </string-array>
     <string-array name="sdapk_sortypes">
         <item>Trier par nom</item>
@@ -414,13 +389,13 @@ pub, pop-up, etc"</item>
     <string-array name="app_install_manage_mode_title">
         <item>Autorise les installations automatiques</item>
         <item>Demander lors d\'une installation automatique</item>
-        <item>Installation intelligente</item>
+        <item>Smart Installation</item>
         <item>Désactive les installations automatiques</item>
     </string-array>
     <string-array name="app_install_manage_mode_desc">
         <item>Autorise les installations automatiques d\'applis, et affiche une notification dans la barre après l\'installation</item>
         <item>Une boite de dialogue s\'affiche lors de l\'installation, pour vous demander de confirmer l\'autorisation de l\'installation</item>
-        <item>Filtrage intelligent (depuis le serveur, fourni par les autres utilisateurs)</item>
+        <item>Smart Filter (From Data cloud by other user online)</item>
         <item>Désactive complètement l\'installation automatique des applis</item>
     </string-array>
     <string-array name="empty_subject_strings">
