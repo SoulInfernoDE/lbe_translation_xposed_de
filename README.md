@@ -1,9 +1,13 @@
-lbe_translation_xposed_ww
+lbe_translation_xposed_de
 =========================
+<<<<<<< HEAD
 Translates LBE Security Master 5.1.xxxx - 5.3.7506 into various languages (Privacy Space and Antitheft in English for now).
+=======
+Translates LBE Security Master 5.4.8088  into german.
+>>>>>>> master
 
 
-Tested with LBE 5.1.4722 thru 5.1.5446 ...
+Tested with LBE 5.4.8088 ...
 
 Benefits ?
 You can run the ORIGINAL, UNMODIFIED apk
@@ -15,3 +19,8 @@ Risks/Downside ?
 Fresh versions of LBE may potentially show some parts in Chinese or could crash.
 Startup Images are not (cannot?) be translated, these are only shown right after Install. Simply swipe over them.
 
+For now there will be a separate module version added everytime lbe will get an update as fast as the translation is
+finished, too.
+
+Warning:
+Use the specific version only for the recommended lbe version to not get any problems/errors with the xposed module.

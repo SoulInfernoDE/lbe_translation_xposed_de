@@ -1,7 +1,7 @@
 package com.xda_drm.lbe51_translation_ww.translate;
 
 import java.lang.reflect.Field;
-import com.xda_drm.lbe51_translation_ww.R;
+import com.xda_drm.lbe51_translation_de.R;
 
 import android.content.res.XModuleResources;
 import android.content.res.XResources;
