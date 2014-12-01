@@ -1,7 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.xda_drm.lbe51_translation_ww"
     android:versionCode="0025"
     android:versionName="0.025" >
+=======
+    package="com.xda_drm.lbe51_translation_de"
+    android:versionCode="0031"
+    android:versionName="0.031" >
+>>>>>>> master
 
     <uses-sdk
         android:minSdkVersion="8"
