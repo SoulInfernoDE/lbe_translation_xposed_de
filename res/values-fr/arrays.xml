@@ -12,7 +12,7 @@
         <item>Ajouter depuis Contacts</item>
         <item>Ajouter depuis les appels</item>
         <item>Ajouter depuis les SMS</item>
-        <item>Ajouter par régions</item>
+        <item>Ajouter manuellement</item>
         <item>Ajouter par balises</item>
     </string-array>
     <string-array name="addnouseiptype">
@@ -35,6 +35,7 @@
         <item>4</item>
     </string-array>
     <string-array name="msglog_operate">
+        <item>Supprimer</item>
         <item>Répondre par SMS</item>
         <item>Appeler ce numéro</item>
         <item>Ajouter à la liste blanche</item>
@@ -98,7 +99,7 @@
         <item>Restaurer le journal des appels</item>
     </string-array>
     <string-array name="preference_stopcalltype_options">
-        <item>Mode Nuit-Ne-Pas-Déranger éteint</item>
+        <item>Mode Nuit-Ne Pas Déranger</item>
         <item>Bloquer la Liste Noire uniquement</item>
         <item>Recevoir de Liste Blanche uniquement</item>
         <item>Bloquer tout</item>
@@ -193,10 +194,10 @@ pub, pop-up, etc"</item>
         <item>default|Menace inconnue</item>
     </string-array>
     <string-array name="calibration_period">
+        <item>Correction manuelle</item>
         <item>Tous les 3 jours</item>
         <item>Chaque semaine</item>
         <item>Chaque jour</item>
-        <item>Correction manuelle</item>
     </string-array>
     <string-array name="auto_update_period">
         <item>Inactif</item>
@@ -280,13 +281,14 @@ pub, pop-up, etc"</item>
         <item>Paramètres système</item>
     </string-array>
     <string-array name="home_about_labels">
-        <item>Commentaires</item>
-        <item>Aide (en chinois)</item>
-        <item>Mise à jour logiciel</item>
         <item>Paramètres système</item>
-        <item>Accueil LBE</item> 
+        <item>Centre de messages</item>
+        <item>Mise à jour logiciel</item>
+        <item>Aide (en chinois)</item>
+        <item>Vos retours</item>
+        <item>Evaluation (sur le Playstore)</item>
         <item>Partager avec vos amis</item>
-        <item>A propos de LBE security master</item>
+        <item>A propos de LBE security master</item>        
     </string-array>
     <string-array name="sdapk_sortypes">
         <item>Trier par nom</item>
