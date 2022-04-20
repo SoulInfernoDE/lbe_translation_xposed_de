@@ -1,4 +1,4 @@
-lbe_translation_xposed_de
+lbe_translation_xposed_de (Deprecated / Archived)
 =========================
 <<<<<<< HEAD
 Translates LBE Security Master 5.4.8088  into german.
